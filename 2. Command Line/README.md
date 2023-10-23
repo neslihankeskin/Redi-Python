@@ -1,1 +1,5 @@
-# My Redi School Project
+# Command Line Basics
+### cd
+### ls
+### rm
+
