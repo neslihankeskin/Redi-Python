@@ -4,6 +4,7 @@
 
 ## Github
 ### Create Account
-### Create a repo
+### Create a repository
+### Fork a repository
 ### Work together
 ### Pull Request
