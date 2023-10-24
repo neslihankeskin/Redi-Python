@@ -1,1 +1,4 @@
-# My Redi School Project
+# Data Types
+## List
+## Dictionary
+
