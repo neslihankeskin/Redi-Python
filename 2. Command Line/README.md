@@ -1,3 +1,4 @@
+# Theory
 # Operating Systems
 ## windows
 ## macos
@@ -8,4 +9,5 @@
 ### cd
 ### ls
 ### rm
+# To-do, set-up WSL
 
