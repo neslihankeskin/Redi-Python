@@ -10,7 +10,6 @@
 ### ls
 ### rm
 # To-do, set-up WSL
-# Python Tool Setup and Installation
 
 
 ## 1 Tools Setup
