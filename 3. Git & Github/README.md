@@ -8,7 +8,7 @@
 ### Fork a repository
 ### Work together
 ### Pull Request
-## Practice with markdown
+### Practice with markdown
 # To-do
 ### 1.3 Git
 
