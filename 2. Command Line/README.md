@@ -6,9 +6,9 @@
 # Command Line
 ## Cmd, Powershell, bash
 ## Basics commands
-### cd
+### cd /cd ..
 ### ls
-### rm
+### rm, rm -rf
 # To-do, set-up WSL
 
 
